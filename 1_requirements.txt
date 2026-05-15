@@ -1,0 +1,7 @@
+opencv-python-headless  # Đảm bảo hỗ trợ đầy đủ codec video
+numpy
+scipy
+matplotlib
+PyQt5
+scikit-image
+scikit-learn
