@@ -14,4 +14,7 @@
     $ python 3_prepare_data.py
 
 ## 3. Chạy code:
+### 3.1. Cho máy local
     $ python Project_DSP/main_gui.py
+### 3.2. Chạy gradio
+    $ python Project_DSP/gradio_gui.py
